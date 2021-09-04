@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "UploadFilesServer_VPS_assist": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "launchBrowser": true,
+      "applicationUrl": "https://0.0.0.0:12345;http://0.0.0.0:54321",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
