@@ -1,6 +1,8 @@
 C:\Users\Filip\Desktop\Organised\C#\UploadFilesServer-VPS assist\bin\Debug\net5.0\win-x64\publish\wwwroot\css\site.css
 C:\Users\Filip\Desktop\Organised\C#\UploadFilesServer-VPS assist\bin\Debug\net5.0\win-x64\publish\wwwroot\favicon.ico
 C:\Users\Filip\Desktop\Organised\C#\UploadFilesServer-VPS assist\bin\Debug\net5.0\win-x64\publish\wwwroot\js\site.js
+C:\Users\Filip\Desktop\Organised\C#\UploadFilesServer-VPS assist\bin\Debug\net5.0\win-x64\publish\wwwroot\js\site.ts
+C:\Users\Filip\Desktop\Organised\C#\UploadFilesServer-VPS assist\bin\Debug\net5.0\win-x64\publish\wwwroot\js\tsconfig.json
 C:\Users\Filip\Desktop\Organised\C#\UploadFilesServer-VPS assist\bin\Debug\net5.0\win-x64\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\Filip\Desktop\Organised\C#\UploadFilesServer-VPS assist\bin\Debug\net5.0\win-x64\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\Filip\Desktop\Organised\C#\UploadFilesServer-VPS assist\bin\Debug\net5.0\win-x64\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
